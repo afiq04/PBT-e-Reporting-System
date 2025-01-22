@@ -1,0 +1,1 @@
+touch README.md Dockerfile docker-compose.yml scripts/deploy_to_aws.sh
